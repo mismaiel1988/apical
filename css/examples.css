@@ -51,7 +51,7 @@ abbr,acronym { border: 0;
 	font-family: 'Lato', sans-serif;
 }
 body{
-	font-family: Avenir;
+	font-family: 'Lato', sans-serif;
 	font-size:22px;
 	color: #333;
 	color: rgba(0,0,0,0.8);
@@ -72,15 +72,16 @@ body{
 }
 
 h1{
-	font-size: 6em;
+	font-size: 64px;
+	font-weight: bold;
 }
 p{
-	font-size: 2em;
+	font-size: 16px;
 }
 .intro p{
 	width: 50%;
 	margin: 0 auto;
-	font-size: 1.5em;
+	font-size: 16px;
 }
 .section{
 	text-align:center;
@@ -374,6 +375,7 @@ h1{
 .intro p{
 	color: #fff;
 	padding:40px 0 0 0;
+	font-size: 16px;
 }
 .wrap{
 	margin-left: auto;
@@ -557,20 +559,20 @@ ul.hr li {
 
 .button-mainpage-1 {
 	padding: 12px 100px;
-	border-radius: 2px;
+	border-radius: 4px;
 	color: white;
 	background-color: #b5292d;
 
 }
 .button-mainpage-2 {
 	padding: 12px 100px;
-	border-radius: 2px;
+	border-radius: 4px;
 	color: white;
 	background-color: #0d6866;
 }
 .button-read-more {
 	padding: 12px 100px;
-	border-radius: 2px;
+	border-radius: 4px;
 	color: white;
 	background-color: #7d7e7f;
 }
@@ -591,7 +593,7 @@ ul.hr li {
 	top: 0px;
 	right: 0px;
 	font-family: 'Lato', sans-serif;
-	
+
 	font-weight: bold;
 	cursor: pointer;
 	color: #5dc4c2;
@@ -609,7 +611,7 @@ ul.hr li {
 .popup-box h2 {
 	padding: 0;
 	margin: 0;
-	font-size: 18px;
+	font-size: 36px;
 }
 .popup-box .top {
 	padding: 20px;
@@ -634,7 +636,9 @@ ul.hr li {
 }
 
 .block-text {font-size:18px;margin-bottom: 30px;margin-top: 20px;}
-.block-button {padding: 12px 100px;border-radius: 5px;color: white;border: 1px solid; color: orange;text-transform: uppercase;font-size: 16px;font-weight: bold;}
+
+/*.block-button {padding: 12px 100px;border-radius: 4px;color: white;border: 1px solid; color: orange;text-transform: uppercase;font-size: 16px;font-weight: bold;}*/
+
 .footer1 {
 	background: url(../imgs/bruno_bg.jpg);
 	height: 300px;
@@ -752,7 +756,8 @@ ul.hr li {
 	margin-right: 50px;
 	margin-top: 20px;
 	border: 1px solid #ec9a26;
-	border-radius: 2px;
+	border-radius: 4px;
+
 }
 
 .contact-button:hover {

@@ -114,7 +114,6 @@
 				<div class="block-text">
 					We can overlook your design and establish the timeline, feasibility, and success of a product's expectations and goals. The rough sketches of your prototype will be carefully examined to determine functionality for the full scope of the project. 
 				</div>
-				<a class="block-button" href="#">button</a>
 			</div>
 			<img style="float: right; display: inline-block;" src="imgs/proofofconcept_icon@1x.png" alt="">
 			<div style="clear: both;"></div>
@@ -191,7 +190,6 @@
 				<div class="block-text">
 					From start to finish, we work with your concept to bring an idea into reality in delivering a finished, complete stand-alone product. Delivering fast, expected, and desired results. From this, we constantly iterate until a final product can be delivered to meet every target specification.
 				</div>
-				<a style="color:#4A4A4A" class="block-button" href="#">button</a>
 			</div>
 			<div style="clear: both;"></div>
 			<svg style="margin-top: -6px;margin-bottom: -98px;" version="1.1" class="colorgray" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1160 160">
@@ -271,7 +269,6 @@ L5,130
 				<div class="block-text">
 					From Concept to Design to Development to Testing to Deployment, we work with all stages in the product development life cycle to ensure perfect delivery of your product. This is where we firmly excel in execution, translating your idea into a polished final product.
 				</div>
-				<a class="block-button" href="#">button</a>
 
 			</div>
 			<img style="float: right; display: inline-block; width: 42%;" src="imgs/productdevelopmnt@2x.png" alt="">
@@ -349,7 +346,6 @@ L5,130
 				<div style="color:#4c576c" class="block-text">
 					We work relentlessly to ensure your product meets and passes every FDA and International guideline. You can rest assured there is no halt in the progress towards delivering your final vision of the product.
 				</div>
-				<a style="color:#4A4A4A" class="block-button" href="#">button</a>
 			</div>
 			<div style="clear: both;"></div>
 			<svg style="margin-top: 40px;margin-bottom: -100px" version="1.1" class="colorgray" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1160 160">
@@ -428,7 +424,6 @@ L5,130
 				<div class="block-text">
 					In addition to bringing your ideas from concept to reality, we house our own facility where we manufacture nearly every component and ship out on a timely and regular basis. 
 				</div>
-				<a class="block-button" href="#">button</a>
 			</div>
 				<img style="float: right; display: inline-block;" src="imgs/production@1.png" alt="">
 			<div style="clear: both;"></div>
