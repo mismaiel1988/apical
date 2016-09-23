@@ -109,7 +109,7 @@
 			<use style="fill:white;" xlink:href="#fullArrowDown" class="fullArrowDown" x="580" y="45"></use>
 		</svg>
 		<div class="wrap" style="text-align: -webkit-center;padding: 20px 0 0 0;">
-			<div style="float: left;text-align: left;width: 50%;color: white;margin-top:30px;">
+			<div style="float: left;text-align: left;width: 50%;color: white;margin-top:91px;">
 				<div class="font-headers">Proof of Concept</div>
 				<div class="block-text">
 					We can overlook your design and establish the timeline, feasibility, and success of a product's expectations and goals. The rough sketches of your prototype will be carefully examined to determine functionality for the full scope of the project. 
@@ -185,7 +185,7 @@
 			</svg>
 		<div class="wrap" style="text-align: -webkit-center;">
 		<img style="float: left; display: inline-block;" src="imgs/prototype_icon@1x.png" alt="">
-			<div style="float: right;text-align: left;width: 50%;color: #4A4A4A;margin-top:30px;">
+			<div style="float: right;text-align: left;width: 50%;color: #4A4A4A;margin-top:91px;">
 				<div class="font-headers" style="color:#0f497d;">Prototype</div>
 				<div class="block-text">
 					From start to finish, we work with your concept to bring an idea into reality in delivering a finished, complete stand-alone product. Delivering fast, expected, and desired results. From this, we constantly iterate until a final product can be delivered to meet every target specification.
@@ -263,7 +263,7 @@ L5,130
 			<use style="fill:white;" xlink:href="#fullArrowDown" class="fullArrowDown" x="91.5" y="45"></use>
 		</svg>
 		<div class="wrap" style="text-align: -webkit-center;">
-			<div style="float: left;text-align: left;width: 50%;color: white;margin-top:30px;">
+			<div style="float: left;text-align: left;width: 50%;color: white;margin-top:109px;">
 
 				<div class="font-headers">Product Development</div>
 				<div class="block-text">
@@ -341,7 +341,7 @@ L5,130
 		</svg>
 		<div class="wrap" style="text-align: -webkit-center;">
 		<img style="float: left; display: inline-block;" src="imgs/validation@1.png" alt="">
-			<div style="float: right;text-align: left;width: 50%;color: #4A4A4A;margin-top:30px;">
+			<div style="float: right;text-align: left;width: 50%;color: #4A4A4A;margin-top:96px;">
 				<div class="font-headers" style="color:#4d4e4c;">Validation</div>
 				<div style="color:#4c576c" class="block-text">
 					We work relentlessly to ensure your product meets and passes every FDA and International guideline. You can rest assured there is no halt in the progress towards delivering your final vision of the product.
@@ -419,7 +419,7 @@ L5,130
 			<use style="fill:white;" xlink:href="#fullArrowDown" class="fullArrowDown" x="91.5" y="45"></use>
 		</svg>
 		<div class="wrap" style="text-align: -webkit-center;">
-			<div style="float: left;text-align: left;width: 50%;color: white;margin-top:30px;">
+			<div style="float: left;text-align: left;width: 50%;color: white;margin-top:91px;">
 				<div class="font-headers">Production</div>
 				<div class="block-text">
 					In addition to bringing your ideas from concept to reality, we house our own facility where we manufacture nearly every component and ship out on a timely and regular basis. 
