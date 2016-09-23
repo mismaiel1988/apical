@@ -54,35 +54,35 @@
 
 		<div class="tabs__content  active">
 			
-				<h3 class="overview" style="font-weight: bold; padding-bottom: 10px; font-size: 36px; text-align: center;">Apical Improves your efficiency</h3>
-			<div style="text-align: center;">Apical Instruments strives to enable its partners to focus their time and resources on the aspects of their business where they have the maximum leverage. In today's healthcare market the prime focus of most medical device companies is on rapid development of the clinical application and the refinement of the disposable component. Apical can complement this process by streamlining all your regulatory efforts for your product. Moreover, contracting Apical to efficiently handle the design, prototyping and manufacturing of "the energy source" (that typically energizes and controls the disposable component) eliminates your need to organize a staff to support these efforts. The benefits of utilizing Apical includes real dividends in production of effective product, reduced development time, lower overhead count, and quicker regulatory approvals - all to enable a delivered complete project.</div>
+				<h3 style="font-weight: bold; padding-bottom: 10px;">Apical Improves your efficiency</h3>
+			<div>Apical Instruments strives to enable its partners to focus their time and resources on the aspects of their business where they have the maximum leverage. In today's healthcare market the prime focus of most medical device companies is on rapid development of the clinical application and the refinement of the disposable component. Apical can complement this process by streamlining all your regulatory efforts for your product. Moreover, contracting Apical to efficiently handle the design, prototyping and manufacturing of "the energy source" (that typically energizes and controls the disposable component) eliminates your need to organize a staff to support these efforts. The benefits of utilizing Apical includes real dividends in production of effective product, reduced development time, lower overhead count, and quicker regulatory approvals - all to enable a delivered complete project.</div>
 		</div>
 
 		<div class="tabs__content">
 
-			<h3 style="font-weight: bold; padding-bottom: 10px;font-size: 36px; text-align: center;">Apical Understands how to Implement</h3>
-			<div style="color:black;text-align: center;">Apical Instruments focuses on honing the design concept of your product to fulfill all stages of the design process from input to output to review and validation, making the necessary changes to execute quality design requirements. We take a hand in every step of the design process to guarantee a successful outcome of product deliverables.</div>
+			<h3 style="font-weight: bold; padding-bottom: 10px;">Apical Understands how to Implement</h3>
+			<div style="color:black;">Apical Instruments focuses on honing the design concept of your product to fulfill all stages of the design process from input to output to review and validation, making the necessary changes to execute quality design requirements. We take a hand in every step of the design process to guarantee a successful outcome of product deliverables.</div>
 		</div>
 
 		<div class="tabs__content">
 
-			<h3 style="font-weight: bold; padding-bottom: 10px;font-size: 36px; text-align: center;">Apical is Production Ready</h3>
-			<div style="color:black;text-align: center;">Housing our own facility for manufacturing, Apical takes ownership of the production life cycle from adopting the design of a prototype and releasing a production ready product for immediate use. Our facility focuses on building every component to your specification and assembling a final product that meets your design and expectations.</div>
+			<h3 style="font-weight: bold; padding-bottom: 10px;">Apical is Production Ready</h3>
+			<div style="color:black;">Housing our own facility for manufacturing, Apical takes ownership of the production life cycle from adopting the design of a prototype and releasing a production ready product for immediate use. Our facility focuses on building every component to your specification and assembling a final product that meets your design and expectations.</div>
 		</div>
 
 		<div class="tabs__content">
-			<h3 style="font-weight: bold; padding-bottom: 10px;font-size: 36px; text-align: center;">Apical preserves Quality</h3>
-			<div style="color:black;text-align: center;">Apical Instruments maintains and repairs all devices to produce devices with very low to zero failure rate. Our long standing presence in the industry shows our dedication towards preserving the quality of products we release towards the biotechnology industry.</div>
+			<h3 style="font-weight: bold; padding-bottom: 10px;">Apical preserves Quality</h3>
+			<div style="color:black;">Apical Instruments maintains and repairs all devices to produce devices with very low to zero failure rate. Our long standing presence in the industry shows our dedication towards preserving the quality of products we release towards the biotechnology industry.</div>
 		</div>
 
 		<div class="tabs__content">
-			<h3 style="font-weight: bold; padding-bottom: 10px;font-size: 36px; text-align: center;">Apical produces Quality Devices</h3>
-			<div style="color:black;text-align: center;">Apical Instruments renders products to meet guidelines set forth by FDA & International standards and passes all guidelines to deliver production ready devices. We carefully undertake the task to make sure every protocol is met before releasing your product.</div>
+			<h3 style="font-weight: bold; padding-bottom: 10px;">Apical produces Quality Devices</h3>
+			<div style="color:black;">Apical Instruments renders products to meet guidelines set forth by FDA & International standards and passes all guidelines to deliver production ready devices. We carefully undertake the task to make sure every protocol is met before releasing your product.</div>
 		</div>
 
 		<div class="tabs__content">
-			<h3 style="font-weight: bold; padding-bottom: 10px;font-size: 36px; text-align: center;">Apical goes above the standard</h3>
-			<div style="color:black;text-align: center;">Apical Instruments is well versed in generating medical device products that adhere to quality standards by proper inspection and compliance protocols. By release and delivery, you can expect a product that fulfills and exceeds all your guidelines and specifications.</div>
+			<h3 style="font-weight: bold; padding-bottom: 10px;">Apical goes above the standard</h3>
+			<div style="color:black;">Apical Instruments is well versed in generating medical device products that adhere to quality standards by proper inspection and compliance protocols. By release and delivery, you can expect a product that fulfills and exceeds all your guidelines and specifications.</div>
 		</div>
 
 

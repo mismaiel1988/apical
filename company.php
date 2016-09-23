@@ -50,15 +50,15 @@
 		</ul>
 
 		<div class="tabs__content  active">
-			<div style="color:#9fa09e;text-align: center;">About</div>
-			<div style="color:black;text-align: center;">Apical Instruments is a medical device company based in the Redwood City area that handles all stages of the development process from conceptualization to production. We are familiar with the design control process and are confident in implementing products up to specification.
+			<!-- <div style="color:#9fa09e;">About</div> -->
+			<div style="color:black; padding: 2% 20% 0 20%;">Apical Instruments is a medical device company based in the Redwood City area that handles all stages of the development process from conceptualization to production. We are familiar with the design control process and are confident in implementing products up to specification.
 		</div>
 		</div>
 
 		<div class="tabs__content" style="text-align: center;width:100%;padding:0;">
-			<div style="padding: 60px;margin-bottom: 100px;">
-				<div style="color:#9fa09e;text-align: center;">Team</div>
-				<div style="color:black;text-align: center;">Apical Instruments is composed of a team of veterans with extensive experience within the medical device field. With leaders in all stages of the planning process, you can expect a product launch meeting  
+			<div style="padding: 60px;margin-bottom: 15px;">
+			<!--<div style="color:#9fa09e;">Team</div> -->
+				<div style="color:black;padding: 2% 20% 0 20%;">Apical Instruments is composed of a team of veterans with extensive experience within the medical device field. With leaders in all stages of the planning process, you can expect a product launch meeting  
 				ISO-compliant standards, stellar research & design, and rapid production output.
 
 				</div>
@@ -74,41 +74,41 @@
 				</ul>
 
 				<div class="tabs__content_members  active">
-					<div style="color:#9fa09e;text-align: center;">Dr. Bruno Strul</div>
-					<div style="color:black;text-align: center;">With over 30+ years of executive management experience ranging across various engineering disciplines from semiconductors to medical devices, Dr. Bruno Struhl is a leader within the Silicon Valley community with a long-standing history of advising, charing and mentoring companies to successful acquisitions.</div>
+					<div style="color:#9fa09e;text-align: center; font-size: 36px;">Dr. Bruno Strul</div>
+					<div style="color:black;padding: 2% 20% 0 20%;text-align: center;">With over 30+ years of executive management experience ranging across various engineering disciplines from semiconductors to medical devices, Dr. Bruno Struhl is a leader within the Silicon Valley community with a long-standing history of advising, charing and mentoring companies to successful acquisitions.</div>
 				</div>
 
 				<div class="tabs__content_members">
-					<div style="color:#9fa09e;text-align: center;">Team Member 2</div>
-					<div style="color:black;text-align: center;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce eleifend porta nibh at tempor. Donec
+					<div style="color:#9fa09e;text-align: center; font-size: 36px;">Team Member 2</div>
+					<div style="color:black;padding: 2% 20% 0 20%;text-align: center;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce eleifend porta nibh at tempor. Donec
 						maximus luctus ullamcorper. Integer consectetur metus eget posuere dapibus. Class aptent taciti
 						sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. </div>
 				</div>
 
 				<div class="tabs__content_members">
-					<div style="color:#9fa09e;text-align: center;">Team Member 3</div>
-					<div style="color:black;text-align: center;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce eleifend porta nibh at tempor. Donec
+					<div style="color:#9fa09e;text-align: center; font-size: 36px;">Team Member 3</div>
+					<div style="color:black;padding: 2% 20% 0 20%;text-align: center;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce eleifend porta nibh at tempor. Donec
 						maximus luctus ullamcorper. Integer consectetur metus eget posuere dapibus. Class aptent taciti
 						sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. </div>
 				</div>
 
 				<div class="tabs__content_members">
-					<div style="color:#9fa09e;text-align: center;">Team Member 4</div>
-					<div style="color:black;text-align: center;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce eleifend porta nibh at tempor. Donec
+					<div style="color:#9fa09e;text-align: center; font-size: 36px;">Team Member 4</div>
+					<div style="color:black;padding: 2% 20% 0 20%;text-align: center;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce eleifend porta nibh at tempor. Donec
 						maximus luctus ullamcorper. Integer consectetur metus eget posuere dapibus. Class aptent taciti
 						sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. </div>
 				</div>
 
 				<div class="tabs__content_members">
-					<div style="color:#9fa09e;text-align: center;">Team Member 5</div>
-					<div style="color:black;text-align: center;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce eleifend porta nibh at tempor. Donec
+					<div style="color:#9fa09e;text-align: center; font-size: 36px;">Team Member 5</div>
+					<div style="color:black;padding: 2% 20% 0 20%;text-align: center;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce eleifend porta nibh at tempor. Donec
 						maximus luctus ullamcorper. Integer consectetur metus eget posuere dapibus. Class aptent taciti
 						sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. </div>
 				</div>
 
 				<div class="tabs__content_members">
-					<div style="color:#9fa09e;text-align: center;">Team Member 6</div>
-					<div style="color:black;text-align: center;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce eleifend porta nibh at tempor. Donec
+					<div style="color:#9fa09e;text-align: center; font-size: 36px;">Team Member 6</div>
+					<div style="color:black;padding: 2% 20% 0 20%;text-align: center;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce eleifend porta nibh at tempor. Donec
 						maximus luctus ullamcorper. Integer consectetur metus eget posuere dapibus. Class aptent taciti
 						sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. </div>
 				</div>
@@ -116,8 +116,8 @@
 		</div>
 
 		<div class="tabs__content">
-			<div style="color:#9fa09e;text-align: center;">Careers</div>
-			<div style="color:black;text-align: center;">Interested in being a part of our team? See available positions below we are looking to fill. Check back regularly to look for open positions.
+			<!-- <div style="color:#9fa09e;">Careers</div> -->
+			<div style="color:black;padding: 2% 20% 0 20%;">Interested in being a part of our team? See available positions below we are looking to fill. Check back regularly to look for open positions.
 		 </div>
 		</div>
 
