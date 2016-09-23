@@ -637,7 +637,7 @@ ul.hr li {
 
 .block-text {font-size:18px;margin-bottom: 30px;margin-top: 20px;}
 
-/*.block-button {padding: 12px 100px;border-radius: 4px;color: white;border: 1px solid; color: orange;text-transform: uppercase;font-size: 16px;font-weight: bold;}*/
+.block-button {padding: 12px 100px;border-radius: 4px;color: white;border: 1px solid; color: orange;text-transform: uppercase;font-size: 16px;font-weight: bold;}
 
 .footer1 {
 	background: url(../imgs/bruno_bg.jpg);
